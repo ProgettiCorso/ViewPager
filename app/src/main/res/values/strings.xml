@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <string name="pagina_1">Prima Pagina</string>
+    <string name="pagina_2">Seconda Pagina</string>
+    <string name="pagina_3">Terza Pagina</string>
+</resources>
